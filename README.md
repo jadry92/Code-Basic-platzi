@@ -1,2 +1,2 @@
-# Code-Basic-platzi
-It's my repository of course "Programación Básica" by Platzi. https://platzi.com/clases/programacion-basica/
+# Code Basic platzi
+It is my course repository, ["Basic Programming"](https://platzi.com/clases/programacion-basica/) by Platzi. 

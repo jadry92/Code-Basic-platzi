@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> mi archivo HTML </title>
+        <style type="/text/css">
+            body{
+                background-color: #000000;
+                color: #f1f1ff;
+                font-family: Helvetica;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Peso</h1>
+        <script type="text/javascript">
+            var p_user = prompt("Cual es tu peso?");
+            var flag_type = prompt("Cual planeta quiere \n 1) marte \n 2) jupiter");
+            var g_tierra = 9.8;
+            var g_marte = 3.7;
+            var g_jupiter = 24.8;
+            var peso_final;
+            var planeta;
+            if (flag_type == "1") {
+                peso_final = parseFloat(p_user)*(g_marte/g_tierra);
+                peso_final = parseInt(peso_final);
+                planeta = "Marte";
+            }else if(flag_type == "2"){
+                peso_final = parseFloat(p_user)*(g_jupiter/g_tierra);
+                peso_final = parseInt(peso_final);
+                planeta = "Jupiter";
+            }else {
+                peso_final = 1000000000000000;
+                planeta = "Kripton";
+            }
+            document.write("Tu peso en "+planeta+" seriá = <strong>"+peso_final+" [Kg]</strong>");
+        </script>
+    </body>
+</html>

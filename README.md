@@ -5,7 +5,7 @@ This is my repository of ["Basic Programming"](https://platzi.com/clases/program
 This course explains the basics of programming with JavaScritp and specific projects.
 
 ### Project  "_cajero_" or ATM:
-This project simulates the algorithms of a generic ATM.
+This [project](https://github.com/jadry92/Code-Basic-platzi/tree/master/cajero) simulates the algorithms of a generic ATM.
 ### Project  2:
 ### Project  3:
 ### Project  4:
@@ -15,5 +15,6 @@ This project simulates the algorithms of a generic ATM.
 ### Project  8:
 ### Project  9:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjA5OTIyMyw0NjY5MzkyODRdfQ==
+eyJoaXN0b3J5IjpbLTExOTAzNzYyNzQsMjAwMjA5OTIyMyw0Nj
+Y5MzkyODRdfQ==
 -->

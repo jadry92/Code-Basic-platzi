@@ -3,8 +3,8 @@ This is my course repository of ["Basic Programming"](https://platzi.com/clases/
 
 This course is explain th basic of pragramming throgh JavaScritp and specific projects.
 
-### Project  "_cajero_":
-
+### Project  "_cajero_" or ATM:
+This project simulate the logic of a
 ### Project  2:
 ### Project  3:
 ### Project  4:
@@ -14,5 +14,5 @@ This course is explain th basic of pragramming throgh JavaScritp and specific pr
 ### Project  8:
 ### Project  9:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTIwNjY5OV19
+eyJoaXN0b3J5IjpbLTYzOTY0MTgzMF19
 -->

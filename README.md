@@ -7,21 +7,19 @@ This course explains the basics of programming with JavaScritp and specific proj
 ### Project  "_cajero_" or ATM:
 This [project](https://github.com/jadry92/Code-Basic-platzi/tree/master/cajero) simulates the algorithms of a generic ATM.
 ### Example of use of DOM "_Document Object Model_":
-This example [dom](https://github.com/jadry92/Code-Basic-platzi/tree/master/dom "dom") is focuse in how to access in the difference parts of it.
+This example [dom](https://github.com/jadry92/Code-Basic-platzi/tree/master/dom "dom") is focused on how to access the different parts of it.
 ### Project  Draw:
-The project [draw](https://github.com/jadry92/Code-Basic-platzi/tree/master/draw "draw") create a start based in the number of the lines that you add.
+The project [draw](https://github.com/jadry92/Code-Basic-platzi/tree/master/draw "draw") create a start based on the number of lines that you add.
 ### Project  4:
+
+The [first](https://github.com/jadry92/Code-Basic-platzi/tree/master/first "first")
 ### Project  5:
 ### Project  6:
 ### Project  7:
 ### Project  8:
 ### Project  9:
 
-[first](https://github.com/jadry92/Code-Basic-platzi/tree/master/first "first")
 
-[first commit :)](https://github.com/jadry92/Code-Basic-platzi/commit/64cf2d96304173dd86422b8cc8d5e2ffe480d7f4 "first commit :)")
-
-2 years ago
 
 [fizzboss](https://github.com/jadry92/Code-Basic-platzi/tree/master/fizzboss "fizzboss")
 
@@ -55,6 +53,6 @@ The project [draw](https://github.com/jadry92/Code-Basic-platzi/tree/master/draw
 
 [test_keyboard](https://github.com/jadry92/Code-Basic-platzi/tree/master/test_keyboard "test_keyboard")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDUzMTAyMzcsLTI4ODA0MTI2OSwtMT
+eyJoaXN0b3J5IjpbLTE2Mjk5NzE3OTYsLTI4ODA0MTI2OSwtMT
 E5MDM3NjI3NCwyMDAyMDk5MjIzLDQ2NjkzOTI4NF19
 -->

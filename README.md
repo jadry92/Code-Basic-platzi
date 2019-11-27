@@ -12,7 +12,9 @@ This example [dom](https://github.com/jadry92/Code-Basic-platzi/tree/master/dom 
 The project [draw](https://github.com/jadry92/Code-Basic-platzi/tree/master/draw "draw") create a start based on the number of lines that you add.
 ### First example:
 This is the [first](https://github.com/jadry92/Code-Basic-platzi/tree/master/first "first") step in the programing world.
-### Project  5:
+### Ex  5:
+[fizzboss](https://github.com/jadry92/Code-Basic-platzi/tree/master/fizzboss "fizzboss")
+
 ### Project  6:
 ### Project  7:
 ### Project  8:
@@ -52,6 +54,6 @@ This is the [first](https://github.com/jadry92/Code-Basic-platzi/tree/master/fir
 
 [test_keyboard](https://github.com/jadry92/Code-Basic-platzi/tree/master/test_keyboard "test_keyboard")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ3ODU1MDMsLTI4ODA0MTI2OSwtMTE5MD
-M3NjI3NCwyMDAyMDk5MjIzLDQ2NjkzOTI4NF19
+eyJoaXN0b3J5IjpbMjY4ODAzMjgwLC0yODgwNDEyNjksLTExOT
+AzNzYyNzQsMjAwMjA5OTIyMyw0NjY5MzkyODRdfQ==
 -->

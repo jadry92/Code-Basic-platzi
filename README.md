@@ -10,9 +10,8 @@ This [project](https://github.com/jadry92/Code-Basic-platzi/tree/master/cajero) 
 This example [dom](https://github.com/jadry92/Code-Basic-platzi/tree/master/dom "dom") is focused on how to access the different parts of it.
 ### Project  Draw:
 The project [draw](https://github.com/jadry92/Code-Basic-platzi/tree/master/draw "draw") create a start based on the number of lines that you add.
-### Project  4:
-
-The [first](https://github.com/jadry92/Code-Basic-platzi/tree/master/first "first")
+### First example:
+This is the [first](https://github.com/jadry92/Code-Basic-platzi/tree/master/first "first") step in the programing world.
 ### Project  5:
 ### Project  6:
 ### Project  7:
@@ -53,6 +52,6 @@ The [first](https://github.com/jadry92/Code-Basic-platzi/tree/master/first "firs
 
 [test_keyboard](https://github.com/jadry92/Code-Basic-platzi/tree/master/test_keyboard "test_keyboard")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjk5NzE3OTYsLTI4ODA0MTI2OSwtMT
-E5MDM3NjI3NCwyMDAyMDk5MjIzLDQ2NjkzOTI4NF19
+eyJoaXN0b3J5IjpbMjQ3ODU1MDMsLTI4ODA0MTI2OSwtMTE5MD
+M3NjI3NCwyMDAyMDk5MjIzLDQ2NjkzOTI4NF19
 -->

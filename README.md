@@ -17,7 +17,7 @@ This example [fizzboss](https://github.com/jadry92/Code-Basic-platzi/tree/master
 ### Project  "_pakiman_":
 The project [my_pakiman](https://github.com/jadry92/Code-Basic-platzi/tree/master/my_pakiman "my_pakiman") is the first step a game copy of pokemon.
 ### Project  3:
-The [proyec_3](https://github.com/jadry92/Code-Basic-platzi/tree/master/proyec_3 "proyec_3")
+The [proyec_3](https://github.com/jadry92/Code-Basic-platzi/tree/master/proyec_3 "proyec_3") is a 
 ### Project  8:
 [second](https://github.com/jadry92/Code-Basic-platzi/tree/master/second "second")
 ### Project  9:
@@ -27,7 +27,7 @@ The [proyec_3](https://github.com/jadry92/Code-Basic-platzi/tree/master/proyec_3
 
 [test_keyboard](https://github.com/jadry92/Code-Basic-platzi/tree/master/test_keyboard "test_keyboard")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjk1MzY4Nyw3NzkyMjcxMzAsLTE1ND
-MyNDc4MDUsMTIwNjUwMTQ2NCwtMjg4MDQxMjY5LC0xMTkwMzc2
-Mjc0LDIwMDIwOTkyMjMsNDY2OTM5Mjg0XX0=
+eyJoaXN0b3J5IjpbNzI1MTk1MjEyLDc3OTIyNzEzMCwtMTU0Mz
+I0NzgwNSwxMjA2NTAxNDY0LC0yODgwNDEyNjksLTExOTAzNzYy
+NzQsMjAwMjA5OTIyMyw0NjY5MzkyODRdfQ==
 -->

@@ -14,7 +14,53 @@ This [project](https://github.com/jadry92/Code-Basic-platzi/tree/master/cajero) 
 ### Project  7:
 ### Project  8:
 ### Project  9:
+
+[dom](https://github.com/jadry92/Code-Basic-platzi/tree/master/dom "dom")
+
+[draw](https://github.com/jadry92/Code-Basic-platzi/tree/master/draw "draw")
+
+[first commit :)](https://github.com/jadry92/Code-Basic-platzi/commit/64cf2d96304173dd86422b8cc8d5e2ffe480d7f4 "first commit :)")
+
+2 years ago
+
+[first](https://github.com/jadry92/Code-Basic-platzi/tree/master/first "first")
+
+[first commit :)](https://github.com/jadry92/Code-Basic-platzi/commit/64cf2d96304173dd86422b8cc8d5e2ffe480d7f4 "first commit :)")
+
+2 years ago
+
+[fizzboss](https://github.com/jadry92/Code-Basic-platzi/tree/master/fizzboss "fizzboss")
+
+[first commit :)](https://github.com/jadry92/Code-Basic-platzi/commit/64cf2d96304173dd86422b8cc8d5e2ffe480d7f4 "first commit :)")
+
+2 years ago
+
+[my_pakiman](https://github.com/jadry92/Code-Basic-platzi/tree/master/my_pakiman "my_pakiman")
+
+[first commit :)](https://github.com/jadry92/Code-Basic-platzi/commit/64cf2d96304173dd86422b8cc8d5e2ffe480d7f4 "first commit :)")
+
+2 years ago
+
+[proyec_3](https://github.com/jadry92/Code-Basic-platzi/tree/master/proyec_3 "proyec_3")
+
+[first commit :)](https://github.com/jadry92/Code-Basic-platzi/commit/64cf2d96304173dd86422b8cc8d5e2ffe480d7f4 "first commit :)")
+
+2 years ago
+
+[second](https://github.com/jadry92/Code-Basic-platzi/tree/master/second "second")
+
+[first commit :)](https://github.com/jadry92/Code-Basic-platzi/commit/64cf2d96304173dd86422b8cc8d5e2ffe480d7f4 "first commit :)")
+
+2 years ago
+
+[test_exp](https://github.com/jadry92/Code-Basic-platzi/tree/master/test_exp "test_exp")
+
+[first commit :)](https://github.com/jadry92/Code-Basic-platzi/commit/64cf2d96304173dd86422b8cc8d5e2ffe480d7f4 "first commit :)")
+
+2 years ago
+
+[test_keyboard](https://github.com/jadry92/Code-Basic-platzi/tree/master/test_keyboard "test_keyboard")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTAzNzYyNzQsMjAwMjA5OTIyMyw0Nj
-Y5MzkyODRdfQ==
+eyJoaXN0b3J5IjpbNjQxNzUyODU3LC0xMTkwMzc2Mjc0LDIwMD
+IwOTkyMjMsNDY2OTM5Mjg0XX0=
 -->

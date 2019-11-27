@@ -7,7 +7,7 @@ This course explains the basics of programming with JavaScritp and specific proj
 ### Project  "_cajero_" or ATM:
 This [project](https://github.com/jadry92/Code-Basic-platzi/tree/master/cajero) simulates the algorithms of a generic ATM.
 ### Example of use of DOM "_Document Object Model_":
-This example [dom](https://github.com/jadry92/Code-Basic-platzi/tree/master/dom "dom") 
+This example [dom](https://github.com/jadry92/Code-Basic-platzi/tree/master/dom "dom") is focuse in how to access in difference 
 ### Project  3:
 ### Project  4:
 ### Project  5:
@@ -62,6 +62,6 @@ This example [dom](https://github.com/jadry92/Code-Basic-platzi/tree/master/dom 
 
 [test_keyboard](https://github.com/jadry92/Code-Basic-platzi/tree/master/test_keyboard "test_keyboard")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5Mzg1Mjg2OSwtMTE5MDM3NjI3NCwyMD
+eyJoaXN0b3J5IjpbLTE0MjM1MDgwMCwtMTE5MDM3NjI3NCwyMD
 AyMDk5MjIzLDQ2NjkzOTI4NF19
 -->

@@ -2,11 +2,11 @@
 
 This is my repository of ["Basic Programming"](https://platzi.com/clases/programacion-basica/) course by Platzi.
 
-This course explains the basics of programming with JavaScritp and specific projects.
+This course explains the basics of programming with JavaScritp and specific projects or example.
 
 ### Project  "_cajero_" or ATM:
 This [project](https://github.com/jadry92/Code-Basic-platzi/tree/master/cajero) simulates the algorithms of a generic ATM.
-### Project  Dom:
+### Example of use of DOM "":
 [dom](https://github.com/jadry92/Code-Basic-platzi/tree/master/dom "dom")
 ### Project  3:
 ### Project  4:
@@ -62,6 +62,6 @@ This [project](https://github.com/jadry92/Code-Basic-platzi/tree/master/cajero) 
 
 [test_keyboard](https://github.com/jadry92/Code-Basic-platzi/tree/master/test_keyboard "test_keyboard")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MTQ0NDc4NywtMTE5MDM3NjI3NCwyMD
-AyMDk5MjIzLDQ2NjkzOTI4NF19
+eyJoaXN0b3J5IjpbLTMzNjYzNTg0LC0xMTkwMzc2Mjc0LDIwMD
+IwOTkyMjMsNDY2OTM5Mjg0XX0=
 -->

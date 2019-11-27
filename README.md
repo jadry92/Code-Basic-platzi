@@ -12,13 +12,14 @@ This example [dom](https://github.com/jadry92/Code-Basic-platzi/tree/master/dom 
 The project [draw](https://github.com/jadry92/Code-Basic-platzi/tree/master/draw "draw") create a start based on the number of lines that you add.
 ### First example:
 This is the [first](https://github.com/jadry92/Code-Basic-platzi/tree/master/first "first") step in the programing world.
+### Second example:
+The is the [second](https://github.com/jadry92/Code-Basic-platzi/tree/master/second "second") step in the programing world.
 ### Example of "_if_" and "_for_":
 This example [fizzboss](https://github.com/jadry92/Code-Basic-platzi/tree/master/fizzboss "fizzboss") is to find divisible numbers into 3 and 5.
 ### Project  "_pakiman_":
 The project [my_pakiman](https://github.com/jadry92/Code-Basic-platzi/tree/master/my_pakiman "my_pakiman") is the first step a game copy of pokemon.
 ### Project  3:
 The [proyec_3](https://github.com/jadry92/Code-Basic-platzi/tree/master/proyec_3 "proyec_3") is about to create a fram image in alter way.
-
 
 ### Project  9:
 [test_exp](https://github.com/jadry92/Code-Basic-platzi/tree/master/test_exp "test_exp")
@@ -27,8 +28,7 @@ The [proyec_3](https://github.com/jadry92/Code-Basic-platzi/tree/master/proyec_3
 
 [test_keyboard](https://github.com/jadry92/Code-Basic-platzi/tree/master/test_keyboard "test_keyboard")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTg0NzU1NDgsNzI1MTk1MjEyLDc3OT
-IyNzEzMCwtMTU0MzI0NzgwNSwxMjA2NTAxNDY0LC0yODgwNDEy
-NjksLTExOTAzNzYyNzQsMjAwMjA5OTIyMyw0NjY5MzkyODRdfQ
-==
+eyJoaXN0b3J5IjpbLTYzNTg5MzQxNCw3MjUxOTUyMTIsNzc5Mj
+I3MTMwLC0xNTQzMjQ3ODA1LDEyMDY1MDE0NjQsLTI4ODA0MTI2
+OSwtMTE5MDM3NjI3NCwyMDAyMDk5MjIzLDQ2NjkzOTI4NF19
 -->

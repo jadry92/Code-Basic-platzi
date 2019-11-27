@@ -12,8 +12,8 @@ This example [dom](https://github.com/jadry92/Code-Basic-platzi/tree/master/dom 
 The project [draw](https://github.com/jadry92/Code-Basic-platzi/tree/master/draw "draw") create a start based on the number of lines that you add.
 ### First example:
 This is the [first](https://github.com/jadry92/Code-Basic-platzi/tree/master/first "first") step in the programing world.
-### Ex  5:
-[fizzboss](https://github.com/jadry92/Code-Basic-platzi/tree/master/fizzboss "fizzboss")
+### Example of "if" and "for":
+This an example [fizzboss](https://github.com/jadry92/Code-Basic-platzi/tree/master/fizzboss "fizzboss") 
 
 ### Project  6:
 ### Project  7:
@@ -54,6 +54,6 @@ This is the [first](https://github.com/jadry92/Code-Basic-platzi/tree/master/fir
 
 [test_keyboard](https://github.com/jadry92/Code-Basic-platzi/tree/master/test_keyboard "test_keyboard")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY4ODAzMjgwLC0yODgwNDEyNjksLTExOT
+eyJoaXN0b3J5IjpbOTkwODIzMDM1LC0yODgwNDEyNjksLTExOT
 AzNzYyNzQsMjAwMjA5OTIyMyw0NjY5MzkyODRdfQ==
 -->

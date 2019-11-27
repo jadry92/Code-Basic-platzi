@@ -15,9 +15,9 @@ This is the [first](https://github.com/jadry92/Code-Basic-platzi/tree/master/fir
 ### Example of "_if_" and "_for_":
 This example [fizzboss](https://github.com/jadry92/Code-Basic-platzi/tree/master/fizzboss "fizzboss") is to find divisible numbers into 3 and 5.
 ### Project  "_pakiman_":
-The project [my_pakiman](https://github.com/jadry92/Code-Basic-platzi/tree/master/my_pakiman "my_pakiman") is the first step 
-### Project  7:
-[proyec_3](https://github.com/jadry92/Code-Basic-platzi/tree/master/proyec_3 "proyec_3")
+The project [my_pakiman](https://github.com/jadry92/Code-Basic-platzi/tree/master/my_pakiman "my_pakiman") is the first step a game copy of pokemon.
+### Project  3:
+The [proyec_3](https://github.com/jadry92/Code-Basic-platzi/tree/master/proyec_3 "proyec_3")
 ### Project  8:
 [second](https://github.com/jadry92/Code-Basic-platzi/tree/master/second "second")
 ### Project  9:
@@ -27,7 +27,7 @@ The project [my_pakiman](https://github.com/jadry92/Code-Basic-platzi/tree/maste
 
 [test_keyboard](https://github.com/jadry92/Code-Basic-platzi/tree/master/test_keyboard "test_keyboard")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc5MjI3MTMwLC0xNTQzMjQ3ODA1LDEyMD
-Y1MDE0NjQsLTI4ODA0MTI2OSwtMTE5MDM3NjI3NCwyMDAyMDk5
-MjIzLDQ2NjkzOTI4NF19
+eyJoaXN0b3J5IjpbMTUwMjk1MzY4Nyw3NzkyMjcxMzAsLTE1ND
+MyNDc4MDUsMTIwNjUwMTQ2NCwtMjg4MDQxMjY5LC0xMTkwMzc2
+Mjc0LDIwMDIwOTkyMjMsNDY2OTM5Mjg0XX0=
 -->

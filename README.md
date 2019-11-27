@@ -9,7 +9,6 @@ This [project](https://github.com/jadry92/Code-Basic-platzi/tree/master/cajero) 
 ### Example of use of DOM "_Document Object Model_":
 This example [dom](https://github.com/jadry92/Code-Basic-platzi/tree/master/dom "dom") is focuse in how to access in the difference parts of it.
 ### Project  3:
-
 [draw](https://github.com/jadry92/Code-Basic-platzi/tree/master/draw "draw")
 ### Project  4:
 ### Project  5:
@@ -56,6 +55,6 @@ This example [dom](https://github.com/jadry92/Code-Basic-platzi/tree/master/dom 
 
 [test_keyboard](https://github.com/jadry92/Code-Basic-platzi/tree/master/test_keyboard "test_keyboard")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQ0MTc0MTUsLTExOTAzNzYyNzQsMj
-AwMjA5OTIyMyw0NjY5MzkyODRdfQ==
+eyJoaXN0b3J5IjpbLTI4ODA0MTI2OSwtMTE5MDM3NjI3NCwyMD
+AyMDk5MjIzLDQ2NjkzOTI4NF19
 -->

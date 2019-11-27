@@ -6,7 +6,8 @@ This course explains the basics of programming with JavaScritp and specific proj
 
 ### Project  "_cajero_" or ATM:
 This [project](https://github.com/jadry92/Code-Basic-platzi/tree/master/cajero) simulates the algorithms of a generic ATM.
-### Project  2:
+### Project  Dom:
+[dom](https://github.com/jadry92/Code-Basic-platzi/tree/master/dom "dom")
 ### Project  3:
 ### Project  4:
 ### Project  5:
@@ -15,7 +16,7 @@ This [project](https://github.com/jadry92/Code-Basic-platzi/tree/master/cajero) 
 ### Project  8:
 ### Project  9:
 
-[dom](https://github.com/jadry92/Code-Basic-platzi/tree/master/dom "dom")
+
 
 [draw](https://github.com/jadry92/Code-Basic-platzi/tree/master/draw "draw")
 
@@ -61,6 +62,6 @@ This [project](https://github.com/jadry92/Code-Basic-platzi/tree/master/cajero) 
 
 [test_keyboard](https://github.com/jadry92/Code-Basic-platzi/tree/master/test_keyboard "test_keyboard")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxNzUyODU3LC0xMTkwMzc2Mjc0LDIwMD
-IwOTkyMjMsNDY2OTM5Mjg0XX0=
+eyJoaXN0b3J5IjpbLTI2MTQ0NDc4NywtMTE5MDM3NjI3NCwyMD
+AyMDk5MjIzLDQ2NjkzOTI4NF19
 -->

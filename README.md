@@ -21,13 +21,12 @@ The project [my_pakiman](https://github.com/jadry92/Code-Basic-platzi/tree/maste
 ### Project  3:
 The [proyec_3](https://github.com/jadry92/Code-Basic-platzi/tree/master/proyec_3 "proyec_3") is about to create a fram image in alter way.
 ### Example of "_Express JS_":
-This is [test_exp](https://github.com/jadry92/Code-Basic-platzi/tree/master/test_exp "test_exp")
-
+This is [test_exp](https://github.com/jadry92/Code-Basic-platzi/tree/master/test_exp "test_exp") is an example of an implementation using Express JS.
 ### Project 10
 
 [test_keyboard](https://github.com/jadry92/Code-Basic-platzi/tree/master/test_keyboard "test_keyboard")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MjA4NTUxMiw3MjUxOTUyMTIsNzc5Mj
+eyJoaXN0b3J5IjpbLTc5MTY1MjQ1NCw3MjUxOTUyMTIsNzc5Mj
 I3MTMwLC0xNTQzMjQ3ODA1LDEyMDY1MDE0NjQsLTI4ODA0MTI2
 OSwtMTE5MDM3NjI3NCwyMDAyMDk5MjIzLDQ2NjkzOTI4NF19
 -->

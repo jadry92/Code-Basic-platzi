@@ -13,8 +13,7 @@ The project [draw](https://github.com/jadry92/Code-Basic-platzi/tree/master/draw
 ### First example:
 This is the [first](https://github.com/jadry92/Code-Basic-platzi/tree/master/first "first") step in the programing world.
 ### Example of "if" and "for":
-This example [fizzboss](https://github.com/jadry92/Code-Basic-platzi/tree/master/fizzboss "fizzboss") is to find the 
-
+This example [fizzboss](https://github.com/jadry92/Code-Basic-platzi/tree/master/fizzboss "fizzboss") is to find divisible numbers into 3 and 5.
 ### Project  6:
 ### Project  7:
 ### Project  8:
@@ -54,6 +53,6 @@ This example [fizzboss](https://github.com/jadry92/Code-Basic-platzi/tree/master
 
 [test_keyboard](https://github.com/jadry92/Code-Basic-platzi/tree/master/test_keyboard "test_keyboard")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTM3MjM4MSwtMjg4MDQxMjY5LC0xMT
-kwMzc2Mjc0LDIwMDIwOTkyMjMsNDY2OTM5Mjg0XX0=
+eyJoaXN0b3J5IjpbMTM1MDg2OTM2LC0yODgwNDEyNjksLTExOT
+AzNzYyNzQsMjAwMjA5OTIyMyw0NjY5MzkyODRdfQ==
 -->

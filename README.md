@@ -23,9 +23,9 @@ The [proyec_3](https://github.com/jadry92/Code-Basic-platzi/tree/master/proyec_3
 ### Example of "_Express JS_":
 This is [test_exp](https://github.com/jadry92/Code-Basic-platzi/tree/master/test_exp "test_exp") is an example of an implementation using Express JS.
 ### Project "keyboard":
-The [test_keyboard](https://github.com/jadry92/Code-Basic-platzi/tree/master/test_keyboard "test_keyboard") project is a implementation 
+The [test_keyboard](https://github.com/jadry92/Code-Basic-platzi/tree/master/test_keyboard "test_keyboard") project is a implementation of using the keyboard.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ5MjA0MDI5LDcyNTE5NTIxMiw3NzkyMj
-cxMzAsLTE1NDMyNDc4MDUsMTIwNjUwMTQ2NCwtMjg4MDQxMjY5
-LC0xMTkwMzc2Mjc0LDIwMDIwOTkyMjMsNDY2OTM5Mjg0XX0=
+eyJoaXN0b3J5IjpbMTY1MDU0MjA5MCw3MjUxOTUyMTIsNzc5Mj
+I3MTMwLC0xNTQzMjQ3ODA1LDEyMDY1MDE0NjQsLTI4ODA0MTI2
+OSwtMTE5MDM3NjI3NCwyMDAyMDk5MjIzLDQ2NjkzOTI4NF19
 -->

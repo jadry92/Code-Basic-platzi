@@ -9,20 +9,14 @@ This [project](https://github.com/jadry92/Code-Basic-platzi/tree/master/cajero) 
 ### Example of use of DOM "_Document Object Model_":
 This example [dom](https://github.com/jadry92/Code-Basic-platzi/tree/master/dom "dom") is focuse in how to access in the difference parts of it.
 ### Project  3:
+
+[draw](https://github.com/jadry92/Code-Basic-platzi/tree/master/draw "draw")
 ### Project  4:
 ### Project  5:
 ### Project  6:
 ### Project  7:
 ### Project  8:
 ### Project  9:
-
-
-
-[draw](https://github.com/jadry92/Code-Basic-platzi/tree/master/draw "draw")
-
-[first commit :)](https://github.com/jadry92/Code-Basic-platzi/commit/64cf2d96304173dd86422b8cc8d5e2ffe480d7f4 "first commit :)")
-
-2 years ago
 
 [first](https://github.com/jadry92/Code-Basic-platzi/tree/master/first "first")
 
@@ -62,6 +56,6 @@ This example [dom](https://github.com/jadry92/Code-Basic-platzi/tree/master/dom 
 
 [test_keyboard](https://github.com/jadry92/Code-Basic-platzi/tree/master/test_keyboard "test_keyboard")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNzI2MTg2MSwtMTE5MDM3NjI3NCwyMD
-AyMDk5MjIzLDQ2NjkzOTI4NF19
+eyJoaXN0b3J5IjpbLTE3NDQ0MTc0MTUsLTExOTAzNzYyNzQsMj
+AwMjA5OTIyMyw0NjY5MzkyODRdfQ==
 -->
